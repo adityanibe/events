@@ -1,0 +1,9 @@
+#btn{
+    border: none;
+    /* border-style: none; */
+    background-color: black;
+    color: wheat;
+    padding: 10px;
+    border-radius: 5px;
+
+}
